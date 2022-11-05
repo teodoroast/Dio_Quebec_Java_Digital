@@ -6,7 +6,7 @@
 - `Tradução`: Bem-vindo ao Projeto Québec Java Digital. Aqui estudarei sobre o back-end com java e Spring Framework para evoluir habilidades e otimizar meu código.
 
 ## Instructions
-- `Tradução`: Instruções
+- `Tradução`: Instruções 📚
 
 I will study the following modules:
 - `Tradução`: Vou estudar os seguintes módulos:
