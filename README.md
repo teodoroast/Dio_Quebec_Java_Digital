@@ -24,5 +24,6 @@ There are a total of `32` activities for studies and training
 - `Tradução`: Segue o link de acesso ao site para estudos:  (https://web.dio.me/track/quebec-java-digital)
 ## GitHub Profile 🌐
 - `Tradução`: Perfil GitHub
+
 Here is my `PROJECTS`, access and manage dependencies. More details can be found [Clicking here](https://github.com/teodoroast).
 - `Tradução`: Aqui está meus  `PROJETOS`, acesse e gerencie as dependências. Mais detalhes podem ser encontrados [Clicando aqui](https://github.com/teodoroast).
