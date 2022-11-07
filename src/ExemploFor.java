@@ -1,6 +1,6 @@
+//Exemplo 04 For - Arrays (Em Arrays o indice inicia sempre em ZERO)
 public class ExemploFor {
     public static void main(String[] args) {
-        //Exemplo 04 For - Arrays (Em Arrays o indice inicia sempre em ZERO)
         System.out.println("Lista para o Super Mercado");
 
         String listaCompras [] = { "Banana", "Mamão", "Maçã", "Melão", "Laranja", "Alface", "Rúcula", 
@@ -11,9 +11,9 @@ public class ExemploFor {
         for (int x=0; x < listaCompras.length; x++){
 
             System.out.println("Item " + x + ": " + listaCompras [ x ]);
-                System.out.println("Lista Compras");
             
             }
+            System.out.println("Lista Concluida!");
     }
 }
 
