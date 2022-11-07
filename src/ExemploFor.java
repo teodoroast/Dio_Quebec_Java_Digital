@@ -1,28 +1,41 @@
 public class ExemploFor {
     public static void main(String[] args) {
         //Exemplo 03 For - Arrays (Em Arrays o indice inicia sempre em ZERO)
-            String alunos [] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
+        System.out.println("Lista para o Super Mercado");
+
+        String listaCompras [] = { "Banana", "Mamão", "Maçã", "Melão", "Laranja", "Alface", "Rúcula", 
+        "Espinafre", "Agrião", "Tomates", "Cenouras", "Couve-manteiga", "Batata", "Mandioquinha", "Abóbora", 
+        "Vagem", "Chuchu", "Carnes", "Frangos", "Peixes", "Pães", "Queijo", "Presunto", "Peito de peru", "Iogurtes", 
+        "Ovos" };
+        
+        for (int x=0; x < listaCompras.length; x++){
+
+            //System.out.println("Lista Compras");
+
+            System.out.println("Item " + x + ": " + listaCompras [ x ]);
+            /* String alunos [] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
 
             for(String aluno : alunos){
-                System.out.println("Nome do aluno é: " + aluno);
+                System.out.println("Nome do aluno é: " + aluno); */
             }
     }
 }
 
+
 /******************************************************************************************* 
     Exemplo 01 For 
     public static void main(String[] args) {
-            for ( int carneirinhos = 1; carneirinhos <=20; carneirinhos ++){
-            System.out.println("Contando Carneirinhos " + carneirinhos);
+            for ( int lista = 1; lista <=27; lista ++){
+            System.out.println("Iten número " + lista);
             }
-            System.out.println("Jozinho Dormiu!");
+            System.out.println("Lista concluida!");
     }
 
 ********************************************************************************************
     Exemplo 02 For - Arrays 
     public static void main(String[] args) {
-            String alunos [] = { "FELIPE", "JONAS", "JULIA", "MARCOS" };
-            for (int x=0; x < alunos.length; x++){
-                System.out.println("O aluno do indice x=" + x + " é " + alunos [ x ]);
+            String listaCompras [] = { "Banana", "Mamão", "Maçã", "Melão", "Laranja", "Alface", "Rúcula", "Espinafre", "Agrião", "Tomates", "Cenouras", "Couve-manteiga", "Batata", "Mandioquinha", "Abóbora", "Vagem", "Chuchu", "Carnes", "Frangos", "Peixes", "Pães", "Queijo", "Presunto", "Peito de peru", "Iogurtes", "Ovos" };
+            for (int x=0; x < listaCompras.length; x++){
+                System.out.println("Item número: " + x + " de " + listaCompras [ x ]);
             }
-*/
+ */
