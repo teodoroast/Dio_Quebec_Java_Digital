@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class AboutMe {
     public static void main(String[] args) {
         try{
+        // try criado para mudarmos a mensagem de erro
+
         //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
@@ -22,7 +24,7 @@ public class AboutMe {
 
         
         //imprimindo os dados obtidos pelo usuario
-        System.out.println("Ola, me chamo " + nome.toUpperCase() + " " + sobrenome.toUpperCase());
+        System.out.println("Olá, me chamo " + nome.toUpperCase() + " " + sobrenome.toUpperCase());
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + "cm ");
         scanner.close();  
