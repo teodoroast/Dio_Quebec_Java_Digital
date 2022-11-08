@@ -15,3 +15,7 @@ public class ExemploExcecao {
         
     }
 }
+
+    /*  Site para estudos
+    1 - https://www.w3schools.com/java/java_try_catch.asp"
+    2 - https://www.oracle.com/br/technical-resources/article/java/erros-java-exceptions.html */
