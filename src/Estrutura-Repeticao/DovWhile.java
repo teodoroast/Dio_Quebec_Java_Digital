@@ -15,6 +15,7 @@ public class DovWhile {
 		boolean atendeu = new Random().nextInt(3)==2;
 		System.out.println("Atendeu? " + atendeu);
 		//negando o ato de continuar tocando
+		// push
 		return ! atendeu;
     }
 }
