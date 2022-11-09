@@ -1,3 +1,6 @@
+/*  Aula 01 - COLLECTIONS 
+https://github.com/cami-la/curso-dio-intro-collections/blob/master/src/br/com/dio/collection/list/ExemploList.java 
+*/
 package Collection;
 
 import java.util.ArrayList;
