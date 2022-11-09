@@ -4,11 +4,8 @@ import java.util.ArrayList;
 //import java.util.Collections;
 import java.util.List;
 
-import javax.sound.midi.Soundbank;
-
 //import java.util.stream.Collectors;
-import java.util.Iterator;
-
+//import java.util.Iterator;
 
 public class ExcemploCollection {
 
