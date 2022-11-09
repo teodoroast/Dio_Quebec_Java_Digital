@@ -7,7 +7,7 @@ import java.util.List;
 //import java.util.stream.Collectors;
 //import java.util.Iterator;
 
-public class ExcemploCollection {
+public class ExemploCollection {
 
 public static void main(String[] args) {
         //Lista de notas
