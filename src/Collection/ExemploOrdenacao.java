@@ -1,7 +1,6 @@
 package Collection;
 //Material de apoio https://github.com/cami-la/curso-dio-intro-collections/blob/master/src/br/com/dio/collection/list/ExemploOrdenacaoList.java
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
