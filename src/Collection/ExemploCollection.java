@@ -26,7 +26,7 @@ public static void main(String[] args) {
         notas.add(10.0);
         notas.add(9.0);
 
-        //System.out.println("Crie uma lista com 10 notas: "); ou //System.out.println(notas.toString()); 
+        System.out.println("Crie uma lista com 10 notas: "); //System.out.println(notas.toString()); 
 
     /*  System.out.println("01 - Exiba a posição da nota 5.0: " + "Linha " + notas.indexOf(5d)); */
         //notas.index0f é o comando que chama um determinado valor.
@@ -44,9 +44,9 @@ public static void main(String[] args) {
     /*  System.out.println("04 - Confira se a nota 5.0 está na lista: " + notas.contains(5d)); */
         // notas.constains diz se ele é verdadeiro ou falso, nesse caso foi falso.
 
-     /* System.out.println("05 - Exiba todas as notas na ordem em que foram informados: ");
+     System.out.println("05 - Exiba todas as notas na ordem em que foram informados: ");
         for (Double nota : notas) 
-        System.out.println("Linha " + nota); */
+        System.out.println("Linha " + nota);
         //  exibe a lista uma em baixo da outra
 
     /*  System.out.println("06 - Exiba a terceira nota adicionada: " + notas.get(2));  
@@ -96,10 +96,10 @@ public static void main(String[] args) {
         System.out.println(notas); */
         // Removel o valor 7 da lista
 
-        System.out.println("Apague toda a linha ");
+       /*  System.out.println("Apague toda a linha ");
         notas.clear();
         System.out.println(notas);
-        System.out.println(" Confira a lista vazia: ");
+        System.out.println(" Confira a lista vazia: "); */
 }
 }
 
