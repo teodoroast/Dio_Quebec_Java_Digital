@@ -1,5 +1,5 @@
 package Collection;
-
+/* https://github.com/cami-la/curso-dio-intro-collections/blob/master/src/br/com/dio/collection/set/ExemploOrdenacaoSet.java */
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
