@@ -13,7 +13,7 @@ public class ExemploOrdenacaoSet {
             add(new Serie("dark", "drama", 60));
             add(new Serie("that '70s show", "comédia", 25));
         }};
-        for (Serie serie: minhaSeries) System.out.println(serie.getNome() + " -- " + serie.getGenero() + " -- " + serie.getTempoEpisodio());
+        for (Serie serie: minhaSeries) System.out.println(serie.getNome() + " - " + serie.getGenero() + " - " + serie.getTempoEpisodio());
 
         System.out.println("--\tOrdem inseção\t--");
         Set<Serie> minhaSeries1 = new LinkedHashSet<>() {{
@@ -21,7 +21,7 @@ public class ExemploOrdenacaoSet {
             add(new Serie("dark", "drama", 60));
             add(new Serie("that '70s show", "comédia", 25));
         }};
-        for (Serie serie: minhaSeries1) System.out.println(serie.getNome() + " -- " + serie.getGenero() + " -- " + serie.getTempoEpisodio());
+        for (Serie serie: minhaSeries1) System.out.println(serie.getNome() + " - " + serie.getGenero() + " - " + serie.getTempoEpisodio());
     }
 }
 class Serie {
